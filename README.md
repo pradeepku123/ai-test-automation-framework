@@ -2,6 +2,7 @@
 - Ai Framework to test Generative AI
 
 # Project Sector
+```
 ai-test-automation-framework/
 │── README.md
 │── requirements.txt
@@ -22,3 +23,4 @@ ai-test-automation-framework/
 │
 └── ci/
     └── github-actions.yml   # GitHub Actions workflow
+```
